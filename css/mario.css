@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+body{
+    background-color: #566573;
+}
+
+#contenido { width: 800px; margin: 0 auto;
+
+}
+
+
+#container{
+  float: left;
+  width:256px;
+  height:324px;
+    margin-top: 120px;
+  margin-left: 250px;
+
+}
+
+#texto{
+color: #212121;
+    float: left;
+    text-align: center;
+  font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+    margin: 0px 180px;
+}
+
+#point1{
+    margin-left: 15px;
+    font-size: 40px;
+font-family: 'Press Start 2P', cursive;
+}
+
+#point2{
+    margin: 0px 5px;
+    font-size: 40px;
+font-family: 'Press Start 2P', cursive;
+}
+
+#point3{
+    font-size: 40px;
+font-family: 'Press Start 2P', cursive;
+}
+.medium{
+  float:left;
+  width:128px;
+  height: 162px;
+
+}
+.little{
+  float:left;
+  width:16px;
+  height:18px;
+}
+
+#one_six,#one_seven,#one_eight,#one_nine,#one_ten,#two_five,#two_six,#two_seven,#two_eight,#two_nine,#two_ten,#two_eleven,#two_twelve,#two_thirtteen, #eight_five, #eight_six,#eight_eight,#eight_nine,#eight_ten, #nine_four,#nine_five,#nine_six,#nine_eight,#nine_nine,#nine_eleven,#nine_thirtteen,#nine_twelve, #ten_three,#ten_four,#ten_five,#ten_six,#ten_twelve,#ten_thirtteen,#ten_fourteen,#ten_eleven,#eleven_five,#eleven_twelve{
+  background: #e74c3c;
+}
+
+#eight_seven, #nine_seven, #nine_ten, #ten_seven,#ten_eight,#ten_nine,#ten_ten, #eleven_six,#eleven_eight,#eleven_nine,#eleven_eleven, #twelve_six,#twelve_seven,#twelve_eight,#twelve_nine,#twelve_ten,#twelve_eleven, #thirtteen_five,#thirtteen_six,#thirtteen_seven,#thirtteen_eight,#thirtteen_nine,#thirtteen_ten,#thirtteen_eleven,#thirtteen_twelve, #fourteen_five,#fourteen_six,#fourteen_seven,#fourteen_ten,#fourteen_eleven,#fourteen_twelve{
+    background: #2E86C1  ;
+}
+
+#three_five,#three_six,#three_seven,#four_four,#four_six,#five_four,#five_six,#five_seven,#five_eleven,#six_four,#six_five,#six_ten,#six_eleven,#six_twelve,#six_thirtteen, #fiveteen_four,#fiveteen_five,#fiveteen_six,#fiveteen_eleven,#fiveteen_twelve,#fiveteen_thirtteen,#sixteen_three,#sixteen_four,#sixteen_five,#sixteen_six,#sixteen_eleven,#sixteen_twelve,#sixteen_thirtteen,#sixteen_fourteen{
+    background: #B9770E  ;
+}
+
+#three_eight,#three_nine,#three_eleven,#four_five,#four_seven,#four_eight,#four_nine,#four_eleven,#four_twelve,#four_thirtteen,#five_five,#five_eight,#five_nine,#five_ten,#five_twelve,#five_thirtteen,#five_fourteen,#six_six,#six_seven,#six_eight,#six_nine,#seven_six,#seven_seven,#seven_eight,#seven_nine,#seven_ten,#seven_eleven,#seven_twelve,#eleven_three,#eleven_four,#eleven_thirtteen,#eleven_fourteen,#twelve_three,#twelve_four,#twelve_five,#twelve_twelve,#twelve_thirtteen,#twelve_fourteen,#thirtteen_four,#thirtteen_three,#thirtteen_thirtteen,#thirtteen_fourteen{
+    background-color: #FCF3CF;
+}
+
+#three_ten, #four_ten{background-color: #17202A  }
+
+#eleven_seven, #eleven_ten{background: #F4D03F}
+
+
+@media only screen and (max-device-width: 480px) {
+
+
+#container{
+  float: left;
+  width:256px;
+  height:324px;
+  margin-top: 20px;
+  margin: 20px 40px;
+}
+
+.medium{
+  float:left;
+  width:128px;
+  height: 162px;
+
+}
+
+.little{
+  float:left;
+  width:16px;
+  height:18px;
+}
+
+#texto{
+color: #212121;
+    float: left;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+    margin: 0px 0px;
+
+}
+
+  #contenido { width: 400px;
+    margin: 0px;
+}
+}

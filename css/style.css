@@ -1,0 +1,239 @@
+#first {
+    width: 50%;
+    float: left;
+
+}
+#second {
+    width: 50%;
+    float: left;
+
+}
+#container {
+    margin: auto;
+}
+
+
+.Explicacion {
+  background-color: #36f160;
+}
+
+.text-center {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.background {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+h1 {
+  line-height: 80px;
+  font-weight: 900;
+  font-size: 60px;
+  padding: 0px 20px 5px 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  line-height: 40px;
+  font-weight: 900;
+  font-size: 30px;
+  padding: 0px 20px 5px 20px;
+  text-transform: uppercase;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+  line-height: 30px;
+  padding-bottom: 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h4 {
+  line-height: 5px;
+  padding: 15px 32px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+  background: rgba(0, 0, 0, 0.25);
+  margin: auto;
+}
+
+h6 {
+  line-height: 20px;
+  padding-bottom: 1px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  font-weight: 300;
+  line-height: 30px;
+}
+
+section {
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.color-white {
+  background-color: #fff;
+}
+
+.spacing-small {
+  line-height: 120%;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.paragraph-small {
+  line-height: 120%;
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.color-light {
+  background-color: #E9E9E9;
+}
+
+.head-main {
+  font-size: 80px;
+  font-weight: 900;
+  color: #fff;
+  padding: 150px 20px 10px 20px;
+}
+
+.head-sub-main {
+  font-size: 40px;
+  font-weight: 600;
+  color: #fff;
+  padding: 0px 20px 150px 20px;
+}
+
+.button {
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: auto;
+}
+
+ul {
+  border-radius: 10px;
+  list-style-position: inside;
+  text-align: left;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+/* Only add border to bottom of <li> */
+
+li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Get rid of the last <li>'s bottom border to stop overlap with <ul>'s border */
+
+/* :last-child works in IE7+ */
+
+li:last-child {
+  border-bottom: none;
+}
+
+/* Get the number and float it right */
+
+span {
+  float: right;
+}
+
+​
+}
+
+.fixed {
+  position: fixed;
+  top: 0;
+  min-height: 50px;
+  z-index: 99;
+}
+
+.navigation {
+  background: rgba(0, 0, 0, 0.25);
+  text-align: center;
+  margin: auto;
+}
+
+.container {
+  background: rgba(255, 255, 255, 0;
+  height: 500px;
+  margin: 0 auto;
+  position: relative;
+  top: 220px;
+  width: 40%;
+  overflow: scroll;
+}
+
+
+* ---- reset ---- */ body {
+  margin: 0;
+  font: normal 75% Arial, Helvetica, sans-serif;
+}
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
+
+
+.count-particles {
+  background: #000022;
+  position: absolute;
+  top: 48px;
+  left: 0;Tradicionalmente, la única forma de hacer que una computadora hiciera algo, era escribir un algoritmo que explicara cómo y con todos los detalles posibles. Pero los algoritmos utilizados por Machine Learning son diferentes: lo resuelven por su cuenta, al hacer inferencias a partir de los datos, y mientras más datos tengan, mejores serán los resultados. Ahora ya no es necesario programar computadoras, ellas se programan a sí mismas, de acuerdo con información del Foro Económico Mundial (WEF).
+Dichos algoritmos son artefactos que diseñan otros artefactos. Un algoritmo de Machine Learning es como un maestro artesano: cada una de sus producciones es diferente y está adaptada a las necesidades del cliente. De esta forma, el aprendizaje automático transforma los datos en algoritmos, y cuantos más datos se tenga, más complejos serán éstos.
+Además, la clave es su capacidad para construir y adaptar un árbol de decisiones con base en los datos conocidos, y de aplicar además fórmulas heurísticas en cada nodo del árbol, construyendo
+  width: 80px;
+  color: #13E8E9;
+  font-size: .8em;
+  text-align: left;
+  text-indent: 4px;
+  line-height: 14px;
+  padding-bottom: 2px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+
+
+
+#stats {img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+  border-radius: 3px 3px 0 0;
+  overflow: hidden;
+}
+
